@@ -9,3 +9,8 @@ Currently:
 Will be added:
 - Upbeat & downbeat
 - Indicator to see the next beat.
+
+## Showcase
+|Style|Image|
+|:--:|:--:|
+|Beat Tracking | ![BeatTrack](.github/BeatTrack.gif)|
