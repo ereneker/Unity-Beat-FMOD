@@ -1,7 +1,14 @@
 # Unity-Beat-FMOD
- 
-This repo is to create a system using FMOD triggering Unity behaviours depending on sound/music rhythm.
+ Beat tracking system in Unity
 
+This repo has been created to be able to trigger FMOD events depending on sound/music rhythm.
+
+## Showcase
+|Style|Image|
+|:--:|:--:|
+|Beat Tracking | ![BeatTrack](.github/BeatTrack.gif)|
+
+## Overview
 Currently:
 - An event can be triggered on specified beats.
 - Triggering according to marker specified in FMOD.
@@ -9,8 +16,3 @@ Currently:
 Will be added:
 - Upbeat & downbeat
 - Indicator to see the next beat.
-
-## Showcase
-|Style|Image|
-|:--:|:--:|
-|Beat Tracking | ![BeatTrack](.github/BeatTrack.gif)|
